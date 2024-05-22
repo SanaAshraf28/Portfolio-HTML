@@ -1,0 +1,218 @@
+.project-1-blog-post-header3 {
+  height: 672px;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  position: relative;
+  align-items: center;
+  padding-top: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-bottom: 1px;
+  background-image: linear-gradient(90deg, rgb(62, 164, 72) 0.00%,rgb(1, 15, 3) 82.00%);
+}
+.project-1-max-width {
+  gap: var(--dl-space-space-fiveunits);
+  width: 100%;
+  height: 680px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-halfunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  justify-content: center;
+}
+.project-1-section-title {
+  flex: 1;
+  left: 71px;
+  width: 616px;
+  bottom: 47px;
+  height: 572px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.project-1-title {
+  gap: var(--dl-space-space-oneandhalfunits);
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.project-1-container {
+  flex: 1;
+  right: 70px;
+  width: 423px;
+  bottom: 45px;
+  height: 560px;
+  display: flex;
+  position: absolute;
+  max-width: 560px;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+.project-1-pasted-image {
+  top: 90px;
+  left: 0px;
+  width: 420px;
+  height: 470px;
+  position: absolute;
+}
+.project-1-link {
+  display: contents;
+}
+.project-1-container1 {
+  top: 5px;
+  right: 23px;
+  width: 200px;
+  height: 74.1335220336914px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-buttonradius);
+  justify-content: center;
+  text-decoration: none;
+  background-color: #ffffff;
+}
+.project-1-image {
+  top: 0px;
+  left: 0px;
+  width: 200px;
+  position: absolute;
+  object-fit: cover;
+}
+.project-1-content {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.project-1-title1 {
+  top: 44px;
+  left: -616px;
+  color: #ffffff;
+  position: absolute;
+  font-size: 45px;
+  font-family: "Arial Black";
+}
+.project-1-content1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.project-1-text {
+  top: 135px;
+  left: -632px;
+  color: #f9f8f3;
+  width: 600px;
+  position: absolute;
+  font-size: 30px;
+}
+.project-1-container2 {
+  left: -623px;
+  width: 337.00284576416016px;
+  bottom: -590px;
+  height: 114.99999237060547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.project-1-icon {
+  top: 8.99151611328125px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.project-1-text1 {
+  top: 0px;
+  left: 49.00568389892578px;
+  color: #ffffff;
+  width: var(--dl-size-size-xxlarge);
+  position: absolute;
+  font-size: 25px;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+
+@media(max-width: 1600px) {
+  .project-1-content {
+    position: relative;
+  }
+  .project-1-title1 {
+    top: 31px;
+    left: -551px;
+    position: absolute;
+    align-self: flex-start;
+  }
+  .project-1-text {
+    top: 151px;
+    left: -576px;
+  }
+  .project-1-container2 {
+    left: -580px;
+    bottom: -607px;
+  }
+}
+@media(max-width: 479px) {
+  .project-1-blog-post-header3 {
+    height: 894px;
+  }
+  .project-1-section-title {
+    top: 0px;
+    left: 0px;
+    width: 479px;
+    height: 81px;
+  }
+  .project-1-container {
+    top: -120px;
+    left: 31px;
+    bottom: 0px;
+    height: 372px;
+  }
+  .project-1-pasted-image {
+    top: 22px;
+    left: 94px;
+    width: 245px;
+    height: 253px;
+  }
+  .project-1-container1 {
+    top: 282px;
+    left: 118px;
+  }
+  .project-1-content {
+    position: absolute;
+  }
+  .project-1-title1 {
+    position: static;
+    font-size: 40px;
+    align-self: center;
+  }
+  .project-1-text {
+    top: 370px;
+    left: -15px;
+    width: 460px;
+    height: var(--dl-size-size-xxlarge);
+    font-size: 25px;
+  }
+  .project-1-container2 {
+    left: 15px;
+    width: 450px;
+    bottom: -793px;
+  }
+  .project-1-text1 {
+    width: 350px;
+  }
+}

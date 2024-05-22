@@ -1,0 +1,224 @@
+.technical-skills-container {
+  width: 1920px;
+  height: 436.9886169433594px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: #ffffff;
+}
+.technical-skills-text {
+  top: 0px;
+  left: 0px;
+  color: rgb(212, 147, 40);
+  right: 0px;
+  width: 400px;
+  margin: auto;
+  position: absolute;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+.technical-skills-image {
+  left: 550px;
+  width: 200px;
+  bottom: 24px;
+  position: absolute;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+.technical-skills-image1 {
+  top: 72px;
+  right: 570px;
+  width: 168px;
+  height: 122px;
+  position: absolute;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+.technical-skills-image2 {
+  right: 581px;
+  width: 209px;
+  bottom: 40px;
+  height: 151px;
+  position: absolute;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+.technical-skills-image3 {
+  top: 84px;
+  left: 731px;
+  width: 147px;
+  height: 132px;
+  position: absolute;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+.technical-skills-image4 {
+  top: 88px;
+  left: 943px;
+  width: 189px;
+  height: 84px;
+  position: absolute;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+.technical-skills-image5 {
+  left: 838px;
+  width: 174px;
+  bottom: 34px;
+  height: 180px;
+  position: absolute;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+.technical-skills-image6 {
+  top: 68px;
+  left: 496px;
+  width: 200px;
+  position: absolute;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+.technical-skills-root-class-name {
+  left: 2px;
+  bottom: 9px;
+  position: absolute;
+}
+
+.technical-skills-root-class-name2 {
+  left: 207px;
+  bottom: -1014px;
+  position: absolute;
+}
+@media(max-width: 1600px) {
+  .technical-skills-container {
+    width: 1599px;
+    background-color: #ffffff;
+  }
+  .technical-skills-text {
+    left: 0px;
+    right: 0px;
+    width: 399px;
+    margin: auto;
+  }
+  .technical-skills-image {
+    left: 416px;
+    bottom: 34px;
+  }
+  .technical-skills-image1 {
+    top: 92px;
+    left: 805px;
+    margin: 0px;
+  }
+  .technical-skills-image2 {
+    left: 940px;
+    bottom: 30px;
+  }
+  .technical-skills-image3 {
+    top: 82px;
+    left: 609px;
+  }
+  .technical-skills-image4 {
+    top: 112px;
+    left: 1031px;
+  }
+  .technical-skills-image5 {
+    left: 672px;
+    bottom: 19px;
+  }
+  .technical-skills-image6 {
+    top: 49px;
+    left: 425px;
+  }
+  .technical-skills-root-class-name2 {
+    right: 220px;
+    bottom: -1029px;
+  }
+}
+@media(max-width: 1200px) {
+  .technical-skills-container {
+    width: 1200px;
+    background-color: #ffffff;
+  }
+  .technical-skills-image {
+    left: 208px;
+    bottom: 37px;
+  }
+  .technical-skills-image1 {
+    top: 78px;
+    left: 560px;
+  }
+  .technical-skills-image2 {
+    left: 744px;
+    bottom: 42px;
+  }
+  .technical-skills-image3 {
+    top: 81px;
+    left: 361px;
+  }
+  .technical-skills-image4 {
+    top: 99px;
+    left: 771px;
+  }
+  .technical-skills-image5 {
+    left: 474px;
+    bottom: 21px;
+  }
+  .technical-skills-image6 {
+    top: 52px;
+    left: 146px;
+  }
+  .technical-skills-root-class-name2 {
+    left: 42px;
+    bottom: -941px;
+  }
+}
+@media(max-width: 479px) {
+  .technical-skills-container {
+    width: 479px;
+    height: 816px;
+    background-color: #ffffff;
+  }
+  .technical-skills-text {
+    top: -2px;
+    left: 63px;
+    width: 389px;
+  }
+  .technical-skills-image {
+    left: 136px;
+    bottom: 26px;
+  }
+  .technical-skills-image1 {
+    top: 259px;
+    left: 47px;
+  }
+  .technical-skills-image2 {
+    top: 248px;
+    left: 250px;
+    margin: 0px;
+  }
+  .technical-skills-image3 {
+    top: 86px;
+    left: 270px;
+  }
+  .technical-skills-image4 {
+    top: 114px;
+    left: 65px;
+  }
+  .technical-skills-image5 {
+    top: 241px;
+    left: 250px;
+  }
+  .technical-skills-image6 {
+    top: 453px;
+    left: 28px;
+  }
+}
